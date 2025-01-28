@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fontbox-3.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/fontbox-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfbox-app-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/pdfbox-app-3.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fontbox-3.0.3.jar!/" />
+    </SOURCES>
+  </library>
+</component>
